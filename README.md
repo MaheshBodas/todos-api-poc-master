@@ -1,4 +1,4 @@
-# Todo's REST API support all CRUD operation, Pagination, JWT based authentication, CORS support
+# Todo's REST API 
 
 Support all CRUD operation, Pagination, JWT based authentication, CORS support.
 
